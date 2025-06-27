@@ -74,5 +74,5 @@ Traditional segmentation methods fail when data has noise or irregular cluster s
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/insurance-segmentation-dbscan.git
-   cd insurance-segmentation-dbscan
+   git clone https://github.com/SathishitHubaccount/-Customer-Segmentation-for-Insurance.git
+   cd CustomerSegmentationforInsurancen
